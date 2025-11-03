@@ -1,0 +1,1 @@
+print("Hai Saya Adit Kurniadi")
