@@ -9,3 +9,6 @@ print("hai ")
 
 # saya lapar
 print("saya lapar banget")
+
+# Penambahan fitur visual lanjut 2
+print("hai hai hai")
