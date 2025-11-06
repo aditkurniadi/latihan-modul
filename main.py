@@ -15,3 +15,7 @@ print("hai hai hai")
 
 # penambahan fitur ojan
 print("ojan ojan ojan")
+
+# penambahan fitur visual lanjut 3
+print("hai hai hai hai")
+print("hai hai hai hai hai")
