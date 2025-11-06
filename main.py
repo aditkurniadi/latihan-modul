@@ -19,3 +19,7 @@ print("ojan ojan ojan")
 # penambahan fitur visual lanjut 3
 print("hai hai hai hai")
 print("hai hai hai hai hai")
+
+n = int(input("Masukkan angka: "))
+for i in range(n):
+    print("Halo Dunia!")
