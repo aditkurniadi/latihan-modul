@@ -20,3 +20,7 @@ print("ojan ojan ojan")
 if True:
     print("Fitur dari adit")
 print("Fitur dari adit lagi")
+
+# penambahan fitur visual lanjut 3
+print("hai hai hai hai")
+print("hai hai hai hai hai")
