@@ -13,3 +13,5 @@ def kali(a, b):
 print("Hasil Tambah: ", tambah(5, 3))
 print("Hasil Kurang: ", kurang(5, 3))
 print("Hasil Kali: ", kali(5, 3))
+print("halo")
+# Penambahan fitur ojan
