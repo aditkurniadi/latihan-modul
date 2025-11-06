@@ -15,3 +15,8 @@ print("hai hai hai")
 
 # penambahan fitur ojan
 print("ojan ojan ojan")
+
+# penambahan fitur dari adit
+if True:
+    print("Fitur dari adit")
+print("Fitur dari adit lagi")
