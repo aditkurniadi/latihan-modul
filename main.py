@@ -16,6 +16,11 @@ print("hai hai hai")
 # penambahan fitur ojan
 print("ojan ojan ojan")
 
+# penambahan fitur dari adit
+if True:
+    print("Fitur dari adit")
+print("Fitur dari adit lagi")
+
 # penambahan fitur visual lanjut 3
 print("hai hai hai hai")
 print("hai hai hai hai hai")
@@ -23,3 +28,7 @@ print("hai hai hai hai hai")
 n = int(input("Masukkan angka: "))
 for i in range(n):
     print("Halo Dunia!")
+    
+print("Fitur dari adit lagi dan lagi")
+print("Fitur dari adit lagi dan lagi dan lagi")
+print("Fitur dari adit lagi dan lagi dan lagi dan lagi")
