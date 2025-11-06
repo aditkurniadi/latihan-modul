@@ -24,3 +24,7 @@ print("Fitur dari adit lagi")
 # penambahan fitur visual lanjut 3
 print("hai hai hai hai")
 print("hai hai hai hai hai")
+
+print("Fitur dari adit lagi dan lagi")
+print("Fitur dari adit lagi dan lagi dan lagi")
+print("Fitur dari adit lagi dan lagi dan lagi dan lagi")
