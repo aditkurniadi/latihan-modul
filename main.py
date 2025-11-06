@@ -12,3 +12,6 @@ print("saya lapar banget")
 
 # Penambahan fitur visual lanjut 2
 print("hai hai hai")
+
+# penambahan fitur ojan
+print("ojan ojan ojan")
