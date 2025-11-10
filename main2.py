@@ -57,3 +57,6 @@ def main():
 if __name__ == "__main__":
     main()
 # ...existing code...
+
+# Penambahan kode misal disini akan saya kasih apa yang belum di kasih gitu 
+n = int(input("Masukan Ya"))
