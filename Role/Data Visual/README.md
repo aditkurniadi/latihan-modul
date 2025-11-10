@@ -1,1 +1,0 @@
-Ini adalaha bagian Data Visual
